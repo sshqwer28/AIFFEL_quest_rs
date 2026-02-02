@@ -50,6 +50,5 @@
 ```
 루브릭에서 요구한 전처리와  실험을 빠짐없이 진행하셨습니다.
 특히 실험 설계 과정에서 통제할 변수를 철저하게 고려해 최대한 객관적인 비교 분석을 수행할 수 있도록 한 점이 가장 인상적입니다.  
-
-<img width="1130" height="699" alt="Image" src="https://github.com/user-attachments/assets/534835ff-2fb5-4284-9460-3e20841b55fc" />
 ```
+<img width="1130" height="699" alt="Image" src="https://github.com/user-attachments/assets/534835ff-2fb5-4284-9460-3e20841b55fc" />
