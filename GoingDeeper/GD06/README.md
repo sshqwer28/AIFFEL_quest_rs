@@ -1,6 +1,6 @@
 # AIFFEL Campus Online Code Peer Review Templete
-- 코더 : 코더의 이름을 작성하세요.
-- 리뷰어 : 리뷰어의 이름을 작성하세요.
+- 코더 : 채세현
+- 리뷰어 : 이창훈
 
 
 # PRT(Peer Review Template)
@@ -32,10 +32,11 @@
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
         <img width="1424" height="406" alt="image" src="https://github.com/user-attachments/assets/34c6e5cf-1761-4ca3-b24a-636bcad6de03" />
 
-- [ ]  **5. 코드가 간결하고 효율적인가요?**
+- [x]  **5. 코드가 간결하고 효율적인가요?**
     - 파이썬 스타일 가이드 (PEP8) 를 준수하였는지 확인
     - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 함수화/모듈화했는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
+        <img width="778" height="381" alt="image" src="https://github.com/user-attachments/assets/3bd16045-0292-4ef2-b97b-dac570af65a8" />
 
 
 # 회고(참고 링크 및 코드 개선)
